@@ -23,12 +23,8 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PyNetCoder/PyNetCoder/output/github-snake-dark.svg" alt="GitHub Snake" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&height=50&lines=Selam%2C+I'am+Hfd+%2F+PyNetCoder;Rust+%26+Python+Developer;Neovim+Master+%26+Linux+User" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'am+Hfd+%2F+PyNetCoder;Rust+%26+Python+Developer;Neovim+Master+%26+Linux+User" alt="Typing SVG" />
   </a>
 </p>
 
