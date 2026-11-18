@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNetCoder&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNetCoder&theme=tokio-night&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNetCoder&theme=tokio_night&hide_border=true" width="100%" />
 </p>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyNetCoder&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
@@ -25,7 +25,7 @@
 ### 🛠️ Technologies and Tools I Use
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,rust,csharp,go,lua,neovim,git,vscode,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,rust,cs,go,lua,neovim,git,vscode,linux,windows&theme=dark" />
 </p>
 
 
