@@ -2,8 +2,8 @@
 # I am PyNetCoder
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PyNetCoder&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNetCoder&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PyNetCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNetCoder&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNetCoder&theme=dark&hide_border=true" width="100%" />
@@ -23,10 +23,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyNetCoder&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyNetCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNetCoder&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
 
 <!--
 **PyNetCoder/PyNetCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
