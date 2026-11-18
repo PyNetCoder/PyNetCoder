@@ -19,6 +19,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyNetCoder&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
+<p align="center">
+  <a href="https://hfdprosite.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Web_Site-Hfd_Pro-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/PyNetCoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PyNetCoder-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <!--
 **PyNetCoder/PyNetCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
