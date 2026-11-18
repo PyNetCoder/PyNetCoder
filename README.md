@@ -8,11 +8,14 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyNetCoder&theme=dark&hide_border=true" width="100%" />
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyNetCoder&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
+</div>
 
 ### 🛠️ Technologies and Tools I Use
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,rust,csharp,go,lua,neovim,pycharm,git,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,rust,csharp,go,lua,neovim,git,vscode,linux,windows&theme=dark" />
 </p>
 
 <div align="center">
@@ -21,7 +24,7 @@
 
 <p align="center">
   <a href="https://hfdprosite.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Site-Hfd_Pro-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web_Site-Hfd_Pro-blueviolet?style=for-the-badge&logo=web&logoColor=white" />
   </a>
   <a href="https://github.com/PyNetCoder" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PyNetCoder-black?style=for-the-badge&logo=github&logoColor=white" />
