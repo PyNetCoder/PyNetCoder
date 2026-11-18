@@ -18,6 +18,19 @@
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PyNetCoder&style=flat-square&color=blueviolet" alt="Vistor Counter" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PyNetCoder&theme=onedark&no-frame=true&row=1&column=4" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PyNetCoder&theme=dark&hide_border=true&layout=compact" width="100%" />
+</p>
+<p align="center">
+  <img src="https://readme-quotes.vercel.app/api?theme=dark" width="100%" />
+</p>
+
 <!--
 **PyNetCoder/PyNetCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
