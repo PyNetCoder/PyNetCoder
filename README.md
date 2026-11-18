@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=100&section=footer&text=Keep%20Coding%2C%20Stay%20Programmer!&fontSize=20&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PyNetCoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyNetCoder&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
@@ -30,12 +34,18 @@
 
 ## My Projects
 
+## 🚀 My Projects
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=SuperNVim&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=WiRu&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=smart-disk-cleaner&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=hfdprosite&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=WiRu&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=PyNetCoder.github.io&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=smart-disk-cleaner&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ## 🛠️ Technologies and Tools I Use
