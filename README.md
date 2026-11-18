@@ -12,18 +12,12 @@
 ### 🛠️ Technologies and Tools I Use
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://skillicons.dev/icons?i=py,rust,csharp,go,lua,neovim,pycharm,git,linux,windows&theme=dark" />
 </p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyNetCoder&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
-
-
 
 <!--
 **PyNetCoder/PyNetCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
