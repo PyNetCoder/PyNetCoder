@@ -32,8 +32,6 @@
   </a>
 </p>
 
-## My Projects
-
 ## 🚀 My Projects
 
 <p align="center">
