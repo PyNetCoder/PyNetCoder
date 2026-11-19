@@ -3,6 +3,11 @@
 # I am PyNetCoder
 
 <p align="center">
+  <img src="./photos/profilelogo.png.png" width="100%" alt="My Profile Logo" />
+</p>
+
+
+<p align="center">
   <a href="https://hfdprosite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Site-Hfd_Pro-blueviolet?style=for-the-badge&logo=web&logoColor=white" />
   </a>
@@ -28,22 +33,35 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'am+Hfd+%2F+PyNetCoder;Rust+%26+Python+Developer;Neovim+Master+%26+Linux+User" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&height=50&lines=Hello%2C+I'm+Hfd+%2F+PyNetCoder;Rust+%26+Python+Developer;Neovim+Master+%26+Linux+User" alt="Typing SVG" />
   </a>
 </p>
 
 ## 🚀 My Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=SuperNVim&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=hfdprosite&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/PyNetCoder/SuperNVim" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=SuperNVim&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/PyNetCoder/hfdprosite" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=hfdprosite&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=WiRu&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=PyNetCoder.github.io&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/PyNetCoder/WiRu" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=WiRu&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/PyNetCodr/PyNetCoder.github.io" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=PyNetCoder.github.io&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=smart-disk-cleaner&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/PyNetCoder/smart-disk-cleaner" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=smart-disk-cleaner&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+    <a href="https://github.com/PyNetCoder/packager" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyNetCoder&repo=packager&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 
 ## 🛠️ Technologies and Tools I Use
