@@ -3,7 +3,7 @@
 # I am PyNetCoder
 
 <p align="center">
-  <img src="./photos/profilelogo.png.png" width="100%" alt="My Profile Logo" />
+  <img src="./photos/profilelogo.png" width="100%" alt="My Profile Logo" />
 </p>
 
 
