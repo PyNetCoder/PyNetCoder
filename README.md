@@ -3,11 +3,6 @@
 # I am PyNetCoder
 
 <p align="center">
-  <img src="./photos/profilelogo.png" width="100%" alt="My Profile Logo" />
-</p>
-
-
-<p align="center">
   <a href="https://hfdprosite.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Web_Site-Hfd_Pro-blueviolet?style=for-the-badge&logo=web&logoColor=white" />
   </a>
@@ -70,7 +65,11 @@
 <img src="https://skillicons.dev/icons?i=py,rust,cs,go,lua,neovim,git,vscode,linux,windows&theme=dark" />
 </p>
 
+## My Profile Logo
 
+<p align="center">
+  <img src="./photos/profilelogo.png" width="100%" alt="My Profile Logo" />
+</p>
 
 
 <!--
